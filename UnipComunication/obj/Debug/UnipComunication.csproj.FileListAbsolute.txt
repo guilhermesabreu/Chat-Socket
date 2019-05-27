@@ -1,0 +1,51 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\bin\Debug\UnipComunication.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\bin\Debug\UnipComunication.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\bin\Debug\UnipComunication.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.csprojAssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.Login.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.Main.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.Friends.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.Settings.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\bin\Debug\SimpleTCP.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Google.Protobuf.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\bin\Debug\MySql.Data.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Google.Protobuf.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\WS-Desktop\UnipComunication\UnipComunication\UnipComunication\bin\Debug\MySql.Data.xml
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.Friends.resources
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.Login.resources
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.Main.resources
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.Properties.Resources.resources
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.csproj.GenerateResource.cache
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.csproj.CoreCompileInputs.cache
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.exe
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.pdb
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\UnipComunication.exe.config
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\UnipComunication.exe
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\UnipComunication.pdb
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Google.Protobuf.dll
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\MySql.Data.dll
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\SimpleTCP.dll
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Google.Protobuf.xml
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\MySql.Data.xml
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.csproj.CopyComplete
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\FireSharp.dll
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Newtonsoft.Json.dll
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\System.Net.Http.Extensions.dll
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\System.Net.Http.Primitives.dll
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\Newtonsoft.Json.xml
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\System.Net.Http.Extensions.xml
+D:\UnipComunication\UnipComunication\UnipComunication\bin\Debug\System.Net.Http.Primitives.xml
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.csproj.App.config
+D:\UnipComunication\UnipComunication\UnipComunication\obj\Debug\UnipComunication.Registration.resources
